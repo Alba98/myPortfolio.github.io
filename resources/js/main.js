@@ -79,12 +79,11 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["Alba Alonso.", "Programmer.", "Web Developer.", "Game Developer."],
       typeSpeed: 100,
       loop: true,
     });
   });
-
 
   // ========================================================================= //
   //  Owl Carousel Services
